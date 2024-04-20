@@ -1,6 +1,10 @@
 <?xml version="1.0"?>
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro"  name="robot">
 
+<<<<<<< HEAD
     <xacro:include filename="robot_core.xacro" />
 
 </robot>
+=======
+</robot>
+>>>>>>> 2116676a9a257ec0dc4b8bab85baee0bb344d116
